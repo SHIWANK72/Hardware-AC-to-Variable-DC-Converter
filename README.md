@@ -24,3 +24,5 @@ The final circuit was tested using a multimeter and an oscilloscope.
 
 ## Safety Precautions
 Working with AC mains voltage is dangerous. All high-voltage connections were properly insulated, and the circuit was housed in a non-conductive enclosure. A fuse was included on the primary side of the transformer for overcurrent protection.
+gupta.shiwank09@gmail.com
+
